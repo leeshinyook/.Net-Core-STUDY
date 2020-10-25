@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/Shinyook/.dotnet/store/|arch|/|tfm|",
-      "/Users/Shinyook/.nuget/packages"
-    ]
-  }
-}

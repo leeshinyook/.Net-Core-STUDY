@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Myapp2/Startup.cs">
     <Files>
       <File FileName="Myapp2/Program.cs" Line="23" Column="46" />
-      <File FileName="Myapp2/Startup.cs" Line="19" Column="2" />
+      <File FileName="Myapp2/Startup.cs" Line="41" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Myapp2" expanded="True" selected="True">
-            <Node name="Myapp2" expanded="True" />
+          <Node name="Myapp2" expanded="True">
+            <Node name="Myapp2" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
